@@ -1,4 +1,4 @@
-Tracking Covid-19 in India  ->   [Dashboard](https://public.tableau.com/app/profile/shreerangscp/viz/Covid19IndiaData_16275455580050/Covid-19Analysis?publish=yes)
+Tracking Covid-19 in India  ->   [Dashboard](https://public.tableau.com/app/profile/shreerangscp/viz/Covid-19inIndia_16295700377650/Summary)
 ===
 Data Source: https://www.covid19india.org/
 
